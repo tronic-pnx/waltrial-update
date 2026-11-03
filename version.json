@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-03T12:57:40Z",
+  "updated": "2026-11-03T13:11:11Z",
   "game": {
-    "code": 3,
-    "version": "0.2.0",
+    "code": 4,
+    "version": "0.2.1",
     "minShell": 2,
-    "url": "https://raw.githubusercontent.com/tronic-pnx/waltrial-update/main/game/3.html",
-    "sha256": "326a64c08642c1821957154f4c3b77d01eef7b0efb8179ea1f4201681b7ed6d7",
-    "size": 1454593,
-    "notes": "Erste Version mit Updater und FPS-Anzeige"
+    "url": "https://raw.githubusercontent.com/tronic-pnx/waltrial-update/main/game/4.html",
+    "sha256": "871280d03b7852490c18fa91c67f18bb8055104f221f0a5aaf8a7867509c58fb",
+    "size": 1455851,
+    "notes": "Weniger Überschläge nach hinten (Wheelie-Kontrolle), kein Abwurf mehr bei sauberer Landung auf den Rädern"
   },
   "apk": {
     "shell": 2,
