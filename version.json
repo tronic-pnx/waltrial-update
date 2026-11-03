@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-03T13:40:48Z",
+  "updated": "2026-11-03T13:59:57Z",
   "game": {
-    "code": 5,
-    "version": "0.3.0",
+    "code": 6,
+    "version": "0.3.1",
     "minShell": 2,
-    "url": "https://raw.githubusercontent.com/tronic-pnx/waltrial-update/main/game/5.html",
-    "sha256": "8dacd33fc71d14bf246d0d766190b30cf4655c0e570c5ef782cc8a587127a557",
-    "size": 1469934,
-    "notes": "Sechs neue Hindernis-Parcours wie in den alten Flash-Trials (Kisten, Fässer, Wippen, Rampen, Anhänger), Fahrgefühl Mittelweg plus Vorgaben Realistisch und Flash-Arcade"
+    "url": "https://raw.githubusercontent.com/tronic-pnx/waltrial-update/main/game/6.html",
+    "sha256": "e7f572b039ea38c9d30c760a853e201d89212f79984700d3581a3fd878943d81",
+    "size": 1471462,
+    "notes": "Rückwärtsgang (Bremse im Stand halten), mehr Körpereinsatz und Schwung beim Lehnen"
   },
   "apk": {
     "shell": 2,
