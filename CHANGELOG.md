@@ -1,5 +1,6 @@
 # Änderungen
 
+- **0.3.3** (Spielstand 8, 2026-11-03): Hinterrad dreht am Steilhang sichtbar durch: Erdbrocken, Staubwolke, verwischte Speichen und Rutschgeräusch. Erdboden etwas weniger griffig, neue Regler (Grip Erdboden, Grip beim Durchdrehen, Durchdrehen max.). Neue Erdhänge in Holzplatz, Sägewerk und Finale.
 - **0.3.2** (Spielstand 7, 2026-11-03): Motorrad und Fahrer in Trials-Proportionen, Kamera näher dran
 - **0.3.1** (Spielstand 6, 2026-11-03): Rückwärtsgang (Bremse im Stand halten), mehr Körpereinsatz und Schwung beim Lehnen
 - **0.3.0** (Spielstand 5, 2026-11-03): Sechs neue Hindernis-Parcours wie in den alten Flash-Trials (Kisten, Fässer, Wippen, Rampen, Anhänger), Fahrgefühl Mittelweg plus Vorgaben Realistisch und Flash-Arcade

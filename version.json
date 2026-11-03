@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-03T14:14:53Z",
+  "updated": "2026-11-03T16:18:00Z",
   "game": {
-    "code": 7,
-    "version": "0.3.2",
+    "code": 8,
+    "version": "0.3.3",
     "minShell": 2,
-    "url": "https://raw.githubusercontent.com/tronic-pnx/waltrial-update/main/game/7.html",
-    "sha256": "433135a1618e7a56f42033721b88d76bb869641d504e33d009faeeeb914a18a6",
-    "size": 1473177,
-    "notes": "Motorrad und Fahrer in Trials-Proportionen, Kamera näher dran"
+    "url": "https://raw.githubusercontent.com/tronic-pnx/waltrial-update/main/game/8.html",
+    "sha256": "940242bb50a543f59335ffd3772977b8dd957651369397f3597d6e98c67f8b1f",
+    "size": 1481312,
+    "notes": "Hinterrad dreht am Steilhang sichtbar durch: Erdbrocken, Staubwolke, verwischte Speichen und Rutschgeräusch. Erdboden etwas weniger griffig, neue Regler (Grip Erdboden, Grip beim Durchdrehen, Durchdrehen max.). Neue Erdhänge in Holzplatz, Sägewerk und Finale."
   },
   "apk": {
     "shell": 2,
