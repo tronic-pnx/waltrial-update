@@ -1,0 +1,20 @@
+{
+  "updated": "2026-11-03T12:57:40Z",
+  "game": {
+    "code": 3,
+    "version": "0.2.0",
+    "minShell": 2,
+    "url": "https://raw.githubusercontent.com/tronic-pnx/waltrial-update/main/game/3.html",
+    "sha256": "326a64c08642c1821957154f4c3b77d01eef7b0efb8179ea1f4201681b7ed6d7",
+    "size": 1454593,
+    "notes": "Erste Version mit Updater und FPS-Anzeige"
+  },
+  "apk": {
+    "shell": 2,
+    "version": "0.2.0",
+    "code": 20003,
+    "url": "https://raw.githubusercontent.com/tronic-pnx/waltrial-update/main/apk/waldtrial-0.2.0.apk",
+    "sha256": "9f19208c866d350a856a8a7c2ae979de53d03e7806579607b2483a9337ae0edc",
+    "notes": "Erste Version mit Updater und FPS-Anzeige"
+  }
+}
