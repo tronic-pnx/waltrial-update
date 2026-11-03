@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-03T13:59:57Z",
+  "updated": "2026-11-03T14:14:53Z",
   "game": {
-    "code": 6,
-    "version": "0.3.1",
+    "code": 7,
+    "version": "0.3.2",
     "minShell": 2,
-    "url": "https://raw.githubusercontent.com/tronic-pnx/waltrial-update/main/game/6.html",
-    "sha256": "e7f572b039ea38c9d30c760a853e201d89212f79984700d3581a3fd878943d81",
-    "size": 1471462,
-    "notes": "Rückwärtsgang (Bremse im Stand halten), mehr Körpereinsatz und Schwung beim Lehnen"
+    "url": "https://raw.githubusercontent.com/tronic-pnx/waltrial-update/main/game/7.html",
+    "sha256": "433135a1618e7a56f42033721b88d76bb869641d504e33d009faeeeb914a18a6",
+    "size": 1473177,
+    "notes": "Motorrad und Fahrer in Trials-Proportionen, Kamera näher dran"
   },
   "apk": {
     "shell": 2,
