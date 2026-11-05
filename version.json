@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-03T16:18:00Z",
+  "updated": "2026-11-05T00:59:28Z",
   "game": {
-    "code": 8,
-    "version": "0.3.3",
+    "code": 9,
+    "version": "0.4.0",
     "minShell": 2,
-    "url": "https://raw.githubusercontent.com/tronic-pnx/waltrial-update/main/game/8.html",
-    "sha256": "940242bb50a543f59335ffd3772977b8dd957651369397f3597d6e98c67f8b1f",
-    "size": 1481312,
-    "notes": "Hinterrad dreht am Steilhang sichtbar durch: Erdbrocken, Staubwolke, verwischte Speichen und Rutschgeräusch. Erdboden etwas weniger griffig, neue Regler (Grip Erdboden, Grip beim Durchdrehen, Durchdrehen max.). Neue Erdhänge in Holzplatz, Sägewerk und Finale."
+    "url": "https://raw.githubusercontent.com/tronic-pnx/waltrial-update/main/game/9.html",
+    "sha256": "e4733dc8a56ffdd68834393d239721424cd8058b07297a95f2d9de57d6b173cb",
+    "size": 1507872,
+    "notes": "Zehn neue Teile (Hängebrücke, Förderband, Lastenaufzug, Pendelbühne, Kreissäge, Schrottauto, Betonrohre, Container, Sprungplatte, morsches Brett, Pendelstamm) und fünf neue Strecken zum Testen: Teile-Parade mit Nummernschildern, Schrottplatz, Baustelle, Holzfabrik, Schlucht. Vor dem Start rollt das Motorrad nicht mehr rückwärts."
   },
   "apk": {
     "shell": 2,
