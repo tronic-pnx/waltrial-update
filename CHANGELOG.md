@@ -1,5 +1,6 @@
 # Änderungen
 
+- **0.4.1** (Spielstand 10, 2026-11-05): Neues Fahrgefühl: Lehnen wirkt über die Gewichtsverlagerung des Fahrers (weicher, nicht mehr zappelig), weichere Federung mit mehr Federweg, Fahrer geht weiter nach vorn und hinten. Vorgabe 'Alt (0.4)' zum Vergleich. Regler-Einstellungen wurden einmal zurückgesetzt.
 - **0.4.0** (Spielstand 9, 2026-11-05): Zehn neue Teile (Hängebrücke, Förderband, Lastenaufzug, Pendelbühne, Kreissäge, Schrottauto, Betonrohre, Container, Sprungplatte, morsches Brett, Pendelstamm) und fünf neue Strecken zum Testen: Teile-Parade mit Nummernschildern, Schrottplatz, Baustelle, Holzfabrik, Schlucht. Vor dem Start rollt das Motorrad nicht mehr rückwärts.
 - **0.3.3** (Spielstand 8, 2026-11-03): Hinterrad dreht am Steilhang sichtbar durch: Erdbrocken, Staubwolke, verwischte Speichen und Rutschgeräusch. Erdboden etwas weniger griffig, neue Regler (Grip Erdboden, Grip beim Durchdrehen, Durchdrehen max.). Neue Erdhänge in Holzplatz, Sägewerk und Finale.
 - **0.3.2** (Spielstand 7, 2026-11-03): Motorrad und Fahrer in Trials-Proportionen, Kamera näher dran

@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-05T00:59:28Z",
+  "updated": "2026-11-05T01:17:06Z",
   "game": {
-    "code": 9,
-    "version": "0.4.0",
+    "code": 10,
+    "version": "0.4.1",
     "minShell": 2,
-    "url": "https://raw.githubusercontent.com/tronic-pnx/waltrial-update/main/game/9.html",
-    "sha256": "e4733dc8a56ffdd68834393d239721424cd8058b07297a95f2d9de57d6b173cb",
-    "size": 1507872,
-    "notes": "Zehn neue Teile (Hängebrücke, Förderband, Lastenaufzug, Pendelbühne, Kreissäge, Schrottauto, Betonrohre, Container, Sprungplatte, morsches Brett, Pendelstamm) und fünf neue Strecken zum Testen: Teile-Parade mit Nummernschildern, Schrottplatz, Baustelle, Holzfabrik, Schlucht. Vor dem Start rollt das Motorrad nicht mehr rückwärts."
+    "url": "https://raw.githubusercontent.com/tronic-pnx/waltrial-update/main/game/10.html",
+    "sha256": "69e15eba8e6ca600a65b2198f0038a05044c3e5f20db358bd6db1c5ddc3f0533",
+    "size": 1510496,
+    "notes": "Neues Fahrgefühl: Lehnen wirkt über die Gewichtsverlagerung des Fahrers (weicher, nicht mehr zappelig), weichere Federung mit mehr Federweg, Fahrer geht weiter nach vorn und hinten. Vorgabe 'Alt (0.4)' zum Vergleich. Regler-Einstellungen wurden einmal zurückgesetzt."
   },
   "apk": {
     "shell": 2,
